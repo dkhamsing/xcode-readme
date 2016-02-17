@@ -7,13 +7,13 @@ module CocoapodsReadme
   BATCH = 'batch-correct'
 
   PRODUCT = 'xcode-readme'
-  PRODUCT_DESCRIPTION = 'Correct the spelling of Xcode in a README'
+  PRODUCT_DESCRIPTION = 'Correct the capitalization of Xcode in a README'
   PRODUCT_URL = 'https://github.com/dkhamsing/xcode-readme'
 
-  PULL_REQUEST_COMMIT_MESSAGE = 'Correct the spelling of Xcode in README'
+  PULL_REQUEST_COMMIT_MESSAGE = 'Correct the capitalization of Xcode in README'
   PULL_REQUEST_TITLE = PULL_REQUEST_COMMIT_MESSAGE
   PULL_REQUEST_DESCRIPTION = %q[
-This pull request corrects the spelling of **Xcode** :sweat_smile:
+This pull request corrects the capitalization of **Xcode** :sweat_smile:
 https://developer.apple.com/xcode/
 
 Created with [`xcode-readme`](https://github.com/dkhamsing/xcode-readme).

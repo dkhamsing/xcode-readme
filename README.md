@@ -9,7 +9,7 @@ $ xcode-readme https://github.com/rnpm/rnpm
 
 xcode-readme 0.1.0
 Checking rnpm/rnpm ...
-Found misspelling of "Xcode" 🔴 😭"
+Whoa look how they wrote "Xcode" 🔴 😭"
 1. Why? Tooling is important. We all know this. One of the biggest advantages of native iOS development is XCode and its great tools. Unfortunately, the process of adding native dependencies to React Native projects is far from perfect and our aim is to make it fun again.
 Open pull request? (y/n) y
 Forking to ReadmeCritic/rnpm ...

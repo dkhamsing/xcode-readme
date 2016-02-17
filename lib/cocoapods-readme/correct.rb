@@ -47,7 +47,7 @@ module CocoapodsReadme
         # .gsub(nogood3, correct)
       changes = Differ.diff(content_corrected, content).changes
 
-      puts "Found misspelling of \"#{correct}\" 🔴 😭"
+      puts "Whoa look how they wrote \"#{correct}\" 🔴 😭"
 
       changes.each_with_index do |c, i|
         puts "#{i+1}. #{c.delete}"
