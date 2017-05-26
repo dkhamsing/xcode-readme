@@ -1,0 +1,10 @@
+correct: Xcode
+incorrect:
+  - XCode
+  - xCode
+pull_commit_message: Correct the capitalization of Xcode in README
+pull_request_title: Correct the capitalization of Xcode in README
+pull_request_description: |
+  This pull request corrects the capitalization of **Xcode** :sweat_smile:
+  https://developer.apple.com/xcode/
+  Created with [`xcode-readme`](https://github.com/dkhamsing/xcode-readme).
